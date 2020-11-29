@@ -1,2 +1,2 @@
 # TextGameTest
-# funny text lol
+# Simple "game" I made quickly.
